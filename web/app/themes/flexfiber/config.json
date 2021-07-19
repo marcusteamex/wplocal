@@ -1,0 +1,16 @@
+{
+  "themename"   : "flexfiber",
+  "author"      : "Marcus {code}",
+  "version"     : "1.0.4",
+  "description" : "flexfiber",
+  "port"        : 35165,
+  "tags"        : "one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready",
+  "assets"      : "assets",
+  "temp"        : "temp"  ,
+  "dev"         : "dev"   ,
+  "scss"        : "scss"  ,
+  "css"         : "css"   ,
+  "js"          : "js"    ,
+  "images"      : "images",
+  "fonts"       : "fonts"
+}
